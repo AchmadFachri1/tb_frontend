@@ -17,7 +17,7 @@
  * ─────────────────────────────────────────────────────────────
  */
 
-const API_BASE = 'https://vercel.com/achmadfachri1s-projects/tb-backend/api';
+const API_BASE = 'https://tb-backend-xi.vercel.app/api';
 
 const api = {
   /**
